@@ -1,0 +1,6 @@
+{
+  "name": "CallSathi AI",
+  "description": "AI-powered live English call assistant, real-time Urdu translator, reply generator, and call center training app for Urdu speakers in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
